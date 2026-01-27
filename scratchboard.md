@@ -31,3 +31,7 @@
 ⚠️ Blocked by IAM restrictions (WSParticipantRole)
 
 See `DEPLOYMENT.md` for deployment options.
+
+## Repository
+
+GitHub: https://github.com/LZong-tw/Kiro-Code-Challenge
